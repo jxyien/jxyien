@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jxyien
 - 👀 I’m interested in coding (python), minecraft
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing as i feel im not experienced enough
+-  I’m looking to collaborate on nothing as i feel im not experienced enough
 - 📫 How to reach me, later
 
 <!---
